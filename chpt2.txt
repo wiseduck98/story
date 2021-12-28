@@ -1,1 +1,3 @@
-This is the second chapter of the fairy tale
+This is the second chapter of the fairy tale 
+
+additional line added by Wisely Kwek
